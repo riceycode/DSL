@@ -1,0 +1,3 @@
+#include <stdio.h>
+int i;
+void large2nd(int a[], int n)
